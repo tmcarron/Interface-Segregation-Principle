@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe.config
+C:\Users\tmcar\source\repos\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe
+C:\Users\tmcar\source\repos\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.pdb
+C:\Users\tmcar\source\repos\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.exe
+C:\Users\tmcar\source\repos\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.pdb
